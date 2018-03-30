@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+
+
+<dataset>
+    <storeowners_test UserID="1" storeId = "1"/>
+    <storeowners_test UserID="2" storeId = "2"/>
+    <storeowners_test UserID="3" storeId = "3"/>
+    <storeowners_test UserID="4" storeId = "4"/>
+</dataset>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE hibernate-mapping PUBLIC "-//Hibernate/Hibernate Mapping DTD 3.0//EN" "http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd">
+<hibernate-mapping>
+    <class name="blackMidnight.model.User" table="users">  
+      <id name = "userID" type="java.lang.Integer" column="UserID">
+            <generator class = "increment"/>
+      </id>      
+      <property name = "userFirstName" type="string" column="First_Name"/>
+      <property name = "userLastName" type="string" column="Last_Name"/>
+      <property name = "phoneNumber" type="string" column="Phone_Number"/>
+      <property name = "usermail" type="string" column="Email"/>
+      <property name = "username" type="string" column="username"/>
+      <property name = "password" type="string" column="password"/>      
+  </class>
+</hibernate-mapping>

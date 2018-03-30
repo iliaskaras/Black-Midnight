@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE hibernate-mapping PUBLIC "-//Hibernate/Hibernate Mapping DTD 3.0//EN" "http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd">
+<hibernate-mapping>
+     <class name="blackMidnight.model.Store" table="store">
+      
+      <id name = "storeId" type="java.lang.Integer" column="storeId">
+            <generator class = "identity"/>
+      </id>
+      
+      <property name = "nameOfStore" type="string" column="nameOfStore"/>
+      <property name = "numberOfSeats" type="java.lang.Integer" column="numberOfSeats"/>
+      <property name = "storeAddress" type="string" column="storeAddress"/>
+      <property name = "storeCity" type="string" column="storeCity"/>
+      <property name = "storePhone" type="string" column="storePhone"/>
+      <property name = "parking" type="boolean" column="parking"/>
+      <property name = "openDays" type="string" column="openDays"/>
+      <property name = "openHours" type="string" column="openHours"/>
+      <property name = "email" type="string" column="email"/>
+      <property name = "storeDetails" type="string" column="storeDetails"/>
+      
+  </class>
+</hibernate-mapping>

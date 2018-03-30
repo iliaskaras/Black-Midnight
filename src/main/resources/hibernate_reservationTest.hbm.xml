@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE hibernate-mapping PUBLIC "-//Hibernate/Hibernate Mapping DTD 3.0//EN" "http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd">
+<hibernate-mapping>
+  <class name="blackMidnight.model_forTests.Reservation_Test" table="reservation_test">
+      <id name = "reservationId" type="java.lang.Integer" column="reservationId">
+            <generator class = "identity"/>
+      </id>
+      
+      <property name = "customerName" type="string" column="customerName"/>
+      <property name = "numberOfSeats" type="java.lang.Integer" column="numberOfSeats"/>
+      <property name = "storeName" type="string" column="storeName"/>
+      <property name = "date" type="string" column="date"/>
+      <property name = "hour" type="string" column="hour"/>
+      <property name = "reservationCode" type="string" column="reservationCode"/>
+      <property name = "customerUsername" type="string" column="customerUsername"/>
+      
+      
+  </class>
+</hibernate-mapping>

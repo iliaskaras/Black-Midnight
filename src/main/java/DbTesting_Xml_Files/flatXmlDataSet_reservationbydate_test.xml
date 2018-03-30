@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataset>
+    <reservationbydate_test reservationDateId = "1" date = "2013/12/02" seatsAvailable = "55" storeName = "store1" />
+    <reservationbydate_test reservationDateId = "2" date = "2013/12/07" seatsAvailable = "55" storeName = "store2" />
+    <reservationbydate_test reservationDateId = "3" date = "2013/12/08" seatsAvailable = "55" storeName = "store3" />
+    <reservationbydate_test reservationDateId = "4" date = "2013/12/09" seatsAvailable = "55" storeName = "store4" />
+</dataset>

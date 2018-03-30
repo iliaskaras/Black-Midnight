@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataset>
+    <reservation_test customerName = "customername1" customerUsername="username1" date="date1" hour ="18:00-20:00" reservationId = "1" numberOfSeats = "55" reservationCode = "code1" storeName = "storename1" />
+    <reservation_test customerName = "customername2" customerUsername="username2" date="date2" hour ="18:00-20:00" reservationId = "2" numberOfSeats = "55" reservationCode = "code2" storeName = "storename2" />
+    <reservation_test customerName = "customername3" customerUsername="username3" date="date3" hour ="18:00-20:00" reservationId = "3" numberOfSeats = "55" reservationCode = "code3" storeName = "storename3" />
+    <reservation_test customerName = "customername4" customerUsername="username4" date="date4" hour ="18:00-20:00" reservationId = "4" numberOfSeats = "55" reservationCode = "code4" storeName = "storename4" />
+</dataset>
+

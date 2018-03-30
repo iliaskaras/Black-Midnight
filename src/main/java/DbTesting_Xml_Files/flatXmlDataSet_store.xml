@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataset>
+    <store_test storeId = "1" nameOfStore = "store1" numberOfSeats = "55" storeAddress = "storeAddress1" storeCity ="storeCity1" storePhone = "123" parking = "1" openDays = "1234567" openHours = "18:00-20:00" email = "hlias.karas@yahoo.gr" storeDetails = "good place"/>
+    <store_test storeId = "2" nameOfStore = "store2" numberOfSeats = "55" storeAddress = "storeAddress2" storeCity ="storeCity2" storePhone = "123" parking = "1" openDays = "5" openHours = "18:00-20:00" email = "papaki2@yahoo.gr" storeDetails = "good place"/>
+    <store_test storeId = "3" nameOfStore = "store3" numberOfSeats = "55" storeAddress = "storeAddress3" storeCity ="storeCity3" storePhone = "123" parking = "1" openDays = "5" openHours = "18:00-20:00"  email = "papaki@yahoo.gr" storeDetails = "good place"/>
+    <store_test storeId = "4" nameOfStore = "store4" numberOfSeats = "55" storeAddress = "storeAddress4" storeCity ="storeCity4" storePhone = "123" parking = "1" openDays = "5" openHours = "18:00-20:00"  email = "papaki3@yahoo.gr" storeDetails = "good place"/>
+    <store_test storeId = "5" nameOfStore = "store5" numberOfSeats = "55" storeAddress = "storeAddress5" storeCity ="storeCity5" storePhone = "123" parking = "1" openDays = "5" openHours = "18:00-20:00"  email = "papaki3@yahoo.gr" storeDetails = "good place"/>
+    <store_test storeId = "6" nameOfStore = "store6" numberOfSeats = "55" storeAddress = "storeAddress6" storeCity ="storeCity6" storePhone = "123" parking = "1" openDays = "5" openHours = "18:00-20:00"  email = "papaki3@yahoo.gr" storeDetails = "good place"/>
+    <store_test storeId = "7" nameOfStore = "store7" numberOfSeats = "55" storeAddress = "storeAddress7" storeCity ="storeCity7" storePhone = "123" parking = "1" openDays = "5" openHours = "18:00-20:00"  email = "papaki3@yahoo.gr" storeDetails = "good place"/>
+    <store_test storeId = "8" nameOfStore = "store8" numberOfSeats = "55" storeAddress = "storeAddress8" storeCity ="storeCity8" storePhone = "123" parking = "1" openDays = "5" openHours = "18:00-20:00"  email = "papaki3@yahoo.gr" storeDetails = "good place"/>
+    <store_test storeId = "9" nameOfStore = "store9" numberOfSeats = "55" storeAddress = "storeAddress9" storeCity ="storeCity9" storePhone = "123" parking = "1" openDays = "5" openHours = "18:00-20:00"  email = "papaki3@yahoo.gr" storeDetails = "good place"/>
+    
+    
+</dataset>

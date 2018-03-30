@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataset>
+    <user_test UserID = "1" First_Name = "fname1" Last_Name = "lname1" Phone_Number = "1234567891" Email ="hlias.karas@yahoo.gr" username = "karona" password = "123"  />
+    <user_test UserID = "2" First_Name = "fname2" Last_Name = "lname1" Phone_Number = "1234567891" Email ="papaki1@yahoo.gr" username = "username2" password = "1234" />
+    <user_test UserID = "3" First_Name = "fname3" Last_Name = "lname1" Phone_Number = "1234567891" Email ="papaki2@yahoo.gr" username = "username3" password = "12345" />
+    <user_test UserID = "4" First_Name = "fname4" Last_Name = "lname1" Phone_Number = "1234567891" Email ="papaki3@yahoo.gr" username = "username4" password = "123456" />
+</dataset>

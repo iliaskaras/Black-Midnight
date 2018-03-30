@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE hibernate-mapping PUBLIC
+  "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+  "http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd">
+
+<hibernate-mapping>
+
+  
+  <class name="blackMidnight.model.Item" table="item">
+      <id name = "itemId" type="java.lang.Integer" column="itemId">
+            <generator class = "identity"/>
+      </id>
+      
+      <property name = "itemName" type="string" column="itemName"/>
+      <property name = "itemType" type="string" column="itemType"/>
+      <property name = "itemPrice" type="java.lang.Integer" column="itemPrice"/>
+      <property name = "itemQuantity" type="java.lang.Integer" column="itemQuantity"/>
+  </class>
+</hibernate-mapping>
+

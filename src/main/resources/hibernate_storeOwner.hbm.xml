@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE hibernate-mapping PUBLIC "-//Hibernate/Hibernate Mapping DTD 3.0//EN" "http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd">
+<hibernate-mapping>
+  <class name="blackMidnight.model.StoreOwner" table="storeowners">
+  <id name = "userID" type="java.lang.Integer" column="UserID">
+            <generator class="assigned"/>
+      </id> 
+      <property name = "storeId" type="java.lang.Integer" column="storeId"/>
+  </class>
+      
+</hibernate-mapping>
